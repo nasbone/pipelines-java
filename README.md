@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/abdulnasirmo/azuredevopspoc/_apis/build/status/nasbone.pipelines-java?branchName=master)](https://dev.azure.com/abdulnasirmo/azuredevopspoc/_build/latest?definitionId=4&branchName=master)
 
 # Contributing
 
